@@ -4,9 +4,9 @@ Relation Algebra Interpreter (using Antlr v4)
 Created By Gaurav Mittal & Kaushal Yagnik
 -----------------------------------------
 
-####CSL - 451 Lab 2
+#### CSL - 451 Lab 2
 
-###Summary
+### Summary
 
 A interpreter which takes relational algebra expression as input from the user, automatically converts them to SQL queries, executes the queries on the database server, and outputs the results of the query to the user.
 
@@ -20,7 +20,7 @@ On unzipping, the folder obtained 2012CSB1013_2012CSB1039 contains the following
 
 3. **External_Libraries** - folder containing external jar dependencies 
 
-###How to Run
+### How to Run
 
 * The code is already compiled and a runnable .jar file by the name RelAlgebraInterpreter.jar has been created to run the project.
 
@@ -39,7 +39,7 @@ Connecting to the Database <database_name>...
 Connected to Database <database_name>!
 ```
 
-###Description
+### Description
 
 * The Relation Algebra Interpreter is developed in Java using ANTLR v4. 
 
@@ -72,7 +72,7 @@ Connected to Database <database_name>!
     
     *  **`cartesian_product (relation1, relation2, ...)`**
 
-###Sample Expression
+### Sample Expression
 
 Here's a list of sample relational algebra expressions to execute on the rating database:
 
